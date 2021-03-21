@@ -83,7 +83,7 @@ main {
  position:relative
 }
 .content {
- background-image:url(/assets/img/background.jpg)
+ background-image:url(background.jpg)
 }
 .content-intro {
  z-index:100;
